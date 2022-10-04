@@ -12,6 +12,7 @@ export default function Header() {
 
 const StyledHeader = styled.header`
   background-color: beige;
+  height: 4rem;
 `;
 
 const Headline = styled.h1`
